@@ -1,0 +1,7 @@
+[] - Frontend
+    [] - Figma
+    [] - Bootstrap-react
+    [] - HTML
+[] - Backend
+    [] - Firebase
+        [] - Auth
